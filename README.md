@@ -1,2 +1,7 @@
 # EC601_mini_project1&3
-This is EC601 mini project 3 database. According to the website whose name is 3school, I learned how to use MongoDB and MySQL to manage my data. And study some code from csdn.cn. In this project, I learned some basic knowledge, but I cannot use this database very well.
+## First
+You need to download all of environment. "pip instal pymongo", "pip install mysql-connector" in your Linux system
+## Second
+You need to download all of files. Please run in the order 1. twitter.py 2. video.py 3. MongoDb.py 4. MySQL.py 5. main.py
+## Third
+About this code, copyright from 3school and csdn website. 
